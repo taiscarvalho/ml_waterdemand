@@ -22,7 +22,6 @@ The codes and data contained here are as follows:
 * `miso_ann`: runs ANN with multiple inputs/single output
 * `siso_ann`: runs ANN with single input/single output
 * `iterative_input_selection`: runs the IIS algorithm with RF and ANN
-* `data_cb`: data for the census blocks of Fortaleza
 
 ## License
 These codes are free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published bythe Free Software Foundation, either version 3 of the License, or any later version.
