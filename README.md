@@ -1,6 +1,6 @@
 # Machine learning techniques for water demand modeling
 
-The codes contained here implement the methods of the paper "Urban water demand modeling using machine learning techniques: Fortaleza – Brazil case study", including the R implementation of the Iterative Input Selection (IIS) algorithm proposed by Galelli and Castelletti (2013). The original Matlab implementation of the IIS algorithm (Galelli and Castelletti; 2013) can be found [here](https://github.com/stefano-galelli/MATLAB_IterativeInputSelection).
+The codes contained here implement the methods of the paper "Urban water demand modeling using machine learning techniques: Fortaleza – Brazil case study", accepted for publication in the Journal of Water Resources Planning and Management. The code includes the R implementation of the Iterative Input Selection (IIS) algorithm proposed by Galelli and Castelletti (2013). The original Matlab implementation of the IIS algorithm (Galelli and Castelletti; 2013) can be found [here](https://github.com/stefano-galelli/MATLAB_IterativeInputSelection).
 
 Galelli, S., and A. Castelletti (2013), Tree-based iterative input variable selection for hydrological modeling, Water Resour. Res., 49(7), 4295-4310.
 
