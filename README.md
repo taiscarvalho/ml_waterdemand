@@ -23,6 +23,10 @@ The codes and data contained here are as follows:
 * `siso_ann`: runs ANN with single input/single output
 * `iterative_input_selection`: runs the IIS algorithm with RF and ANN
 
+## Infographic
+
+![alt text](https://raw.github.com/taiscarvalho/ml_waterdemand/master/infographic_wdemand.png)
+
 ## License
 These codes are free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published bythe Free Software Foundation, either version 3 of the License, or any later version.
 
